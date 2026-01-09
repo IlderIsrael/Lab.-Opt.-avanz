@@ -1,0 +1,1 @@
+Este es un espacio de trabajp para el desarrollo del experimento de medicion dde la viscocidad de un fluido (acetato de sodio) por medio dde una tencina de transferencia de momento por pulsaciones de laser.
